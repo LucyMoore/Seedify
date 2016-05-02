@@ -1,2 +1,5 @@
 # Seedify
-A gardening App built with React.
+A gardening app built with React.
+technologies include:
+
+React, webpack, react-Router
